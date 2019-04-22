@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_item_1"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_popup_1"/>
+    <item
+        android:id="@+id/action_item_2"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_popup_2"/>
+    <item
+        android:id="@+id/action_item_3"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_popup_3"/>
+
+</menu>
